@@ -10,7 +10,7 @@ using namespace std;
 void displayHelpMenu() {
     cout << "_______________________________________________________________________\n"
          << "If you're not sure what to type, here are the Unit Conversions for time:\n" 
-         << "*Can only be typed in float numbers and will be rounded as a whole number at the end.*\n"
+         << "*Can only be typed as an integer or float numbers and will be rounded as a whole number at the end.*\n"
          << "1 second\n" 
          << "1 minute = 60 seconds\n" 
          << "1 hour = 60 minutes\n" 
@@ -71,7 +71,7 @@ int main() {
     double seconds, minutes, hours, days, weeks, months, years;
 
     // Display the prompt message once at the beginning
-    cout << "\n\n[Enter] to skip, type help, or [Ctrl] + [C] to exit" << endl;
+    cout << "[Enter] to skip, type help, or [Ctrl] + [C] to exit" << endl;
 
     // Continuous loop for user input and results
     while (true) {
