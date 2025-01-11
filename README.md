@@ -27,5 +27,5 @@ You can clone or download the repository to your local machine by using the foll
 
 ```bash
 git clone https://github.com/Ang3110/Time-calculator-CPP.git
-
-After cloning the project, navigate to the project's directory and compile the 'time_calc.cpp' file. The compilation process may take around 20 seconds. Once compiled, launch the program by running './time_calc'. Enjoy!
+```
+After cloning the project, navigate to the project's directory and compile the `time_calc.cpp` file. The compilation process may take around 20 seconds. Once compiled, launch the program by running `./time_calc`. Enjoy!
