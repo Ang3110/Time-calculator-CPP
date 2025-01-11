@@ -16,7 +16,7 @@ This project uses the [exprtk](https://github.com/ArashPartow/exprtk) library fo
 
 To compile and run the program, you'll need the following:
 
-- A C++ compiler such as **GCC** or **Clang** (for Linux/macOS) or **MinGW** (for Windows).
+- A C++ compiler such as [**GCC**](https://gcc.gnu.org/) or [**Clang**](https://clang.llvm.org/) (for Linux/macOS) or [**MinGW**](https://sourceforge.net/projects/mingw/) (for Windows).
 - Ensure that your compiler supports **C++11** or later.
 
 ## Getting Started
